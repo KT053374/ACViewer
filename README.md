@@ -27,7 +27,7 @@ For Developers To Build (project targets **.NET&nbsp;8.0**):
   - [Visual Studio minimum required version – Visual Studio&nbsp;2022&nbsp;17.0](https://visualstudio.microsoft.com/vs/)
   - [.NET&nbsp;8.0 SDK](https://dotnet.microsoft.com/download)
   - If using Visual Studio Community Edition, make sure the .NET Desktop Development workload is installed
-* Clone repo and submodules
+* Clone repo and submodules (e.g. `git clone --recursive https://github.com/ACEmulator/ACViewer.git`)
 * Load ACViewer.sln and build.
 
 ## Contributions
