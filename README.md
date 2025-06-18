@@ -22,11 +22,11 @@ For quick start, precompiled binaries:
 
 ### **Visit the [Help](https://acemulator.github.io/ACViewer/) site for further information on usage**
 
-For Developers To Build:
-* Install Visual Studio 2017
-  - [Visual Studio minimum required version - VS Community 2017 15.7.0](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
-  - [.NET Core 2.1 x64 SDK; .NET Framework 4.7.2 Developer Pack Required](https://www.microsoft.com/net/download/visual-studio-sdks)
-  - If using Visual Studio Community Edition, make sure the following two workloads are installed: .NET Core cross-platform development and .NET Desktop Development
+For Developers To Build (project targets **.NET&nbsp;8.0**):
+* Install Visual Studio&nbsp;2022
+  - [Visual Studio minimum required version – Visual Studio&nbsp;2022&nbsp;17.0](https://visualstudio.microsoft.com/vs/)
+  - [.NET&nbsp;8.0 SDK](https://dotnet.microsoft.com/download)
+  - If using Visual Studio Community Edition, make sure the .NET Desktop Development workload is installed
 * Clone repo and submodules
 * Load ACViewer.sln and build.
 
