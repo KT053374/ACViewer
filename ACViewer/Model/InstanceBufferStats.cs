@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Model
+namespace ACViewer.Model
 {
     public class InstanceBufferStats
     {

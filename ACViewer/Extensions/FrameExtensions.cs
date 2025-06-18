@@ -1,4 +1,4 @@
-﻿using ACE.DatLoader.Entity;
+using ACE.DatLoader.Entity;
 using ACE.Server.Physics.Animation;
 
 using Microsoft.Xna.Framework;

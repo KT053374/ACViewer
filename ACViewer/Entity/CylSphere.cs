@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Entity
+namespace ACViewer.Entity
 {
     public class CylSphere
     {

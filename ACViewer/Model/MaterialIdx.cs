@@ -1,4 +1,4 @@
-﻿using Assimp;
+using Assimp;
 
 namespace ACViewer.Model
 {

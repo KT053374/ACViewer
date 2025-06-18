@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using ACE.Entity.Enum;
 using ACE.Entity.Enum.Properties;
 

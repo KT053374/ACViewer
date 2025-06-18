@@ -1,4 +1,4 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 
 using ACE.Entity.Enum;
 using ACE.Server.Physics;

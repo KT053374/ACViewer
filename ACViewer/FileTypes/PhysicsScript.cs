@@ -1,4 +1,4 @@
-﻿using ACViewer.Entity;
+using ACViewer.Entity;
 
 namespace ACViewer.FileTypes
 {

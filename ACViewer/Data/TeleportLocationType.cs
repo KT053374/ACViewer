@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Data
+namespace ACViewer.Data
 {
     public enum TeleportLocationType
     {

@@ -1,4 +1,4 @@
-﻿using ACE.Server.Physics;
+using ACE.Server.Physics;
 
 namespace ACViewer.Render
 {
