@@ -1,4 +1,12 @@
 .vs/
 bin/
 obj/
+**/build/
+**/bin/
+**/obj/
+Build/
+Debug/
+Release/
 *.user
+ACViewer.json
+*.log
