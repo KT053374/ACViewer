@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Config
+namespace ACViewer.Config
 {
     public class WindowPos
     {

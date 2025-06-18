@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 
 using ACE.DatLoader;
 using ACE.DatLoader.Entity;

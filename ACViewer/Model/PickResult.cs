@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using ACE.Server.Physics;
 using ACE.Server.Physics.Common;

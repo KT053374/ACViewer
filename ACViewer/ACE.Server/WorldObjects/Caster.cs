@@ -1,4 +1,4 @@
-﻿using ACE.Entity;
+using ACE.Entity;
 using ACE.Entity.Models;
 
 namespace ACE.Server.WorldObjects

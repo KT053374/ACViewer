@@ -1,4 +1,4 @@
-﻿namespace ACViewer
+namespace ACViewer
 {
     public static class MatrixExtensions
     {

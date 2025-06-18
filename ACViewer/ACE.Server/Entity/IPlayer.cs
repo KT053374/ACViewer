@@ -1,4 +1,4 @@
-﻿using ACE.Database.Models.Auth;
+using ACE.Database.Models.Auth;
 using ACE.Entity;
 using ACE.Entity.Enum.Properties;
 

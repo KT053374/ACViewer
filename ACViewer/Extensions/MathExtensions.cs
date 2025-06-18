@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Extensions
+namespace ACViewer.Extensions
 {
     public static class MathExtensions
     {

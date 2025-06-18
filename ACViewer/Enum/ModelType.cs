@@ -1,4 +1,4 @@
-﻿namespace ACViewer.Enum
+namespace ACViewer.Enum
 {
     public enum ModelType
     {

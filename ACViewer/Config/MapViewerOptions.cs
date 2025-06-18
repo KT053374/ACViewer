@@ -1,4 +1,4 @@
-﻿using ACViewer.Enum;
+using ACViewer.Enum;
 
 namespace ACViewer.Config
 {

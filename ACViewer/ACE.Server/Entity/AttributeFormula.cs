@@ -1,4 +1,4 @@
-﻿using ACE.Common.Extensions;
+using ACE.Common.Extensions;
 using ACE.DatLoader;
 using ACE.DatLoader.Entity;
 using ACE.Entity.Enum;

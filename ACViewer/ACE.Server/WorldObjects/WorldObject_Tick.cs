@@ -1,4 +1,4 @@
-﻿namespace ACE.Server.WorldObjects
+namespace ACE.Server.WorldObjects
 {
     partial class WorldObject
     {
